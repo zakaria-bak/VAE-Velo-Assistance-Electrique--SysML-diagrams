@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T12:07:40.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mFyUIHhMIHMYjlyDm4zl" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T12:12:36.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="48YuZ06HMIFbdJWWkIEk" version="22.1.18" type="github">
   <diagram id="dAIOxEO-8DKLfruTNQ-A" name="Page-1">
     <mxGraphModel dx="1909" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,6 +38,32 @@
         </mxCell>
         <mxCell id="Z8fRhWyoZz0i8I4wxV49-25" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Un éclairage avant et arrière&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.2.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="170" y="600" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8fRhWyoZz0i8I4wxV49-27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Un Gérer le couple d&#39;Assistance&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.2.3&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="600" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8fRhWyoZz0i8I4wxV49-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="Z8fRhWyoZz0i8I4wxV49-28" target="Z8fRhWyoZz0i8I4wxV49-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8fRhWyoZz0i8I4wxV49-28" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Un Gérer le couple d&#39;Assistance :&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Vitesse&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.2.3.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="770" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8fRhWyoZz0i8I4wxV49-29" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Un Gérer le couple d&#39;Assistance :&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Arret pédalage&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.2.3.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="770" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8fRhWyoZz0i8I4wxV49-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.547;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="Z8fRhWyoZz0i8I4wxV49-29" target="Z8fRhWyoZz0i8I4wxV49-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="532" y="730" />
+              <mxPoint x="485" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8fRhWyoZz0i8I4wxV49-33" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Vitesse Maximal&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.2.3.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot; l&#39;assistance doit s&#39;arréter si le VAE dépasse la vitesse de 40km/h&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="960" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8fRhWyoZz0i8I4wxV49-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.409;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Z8fRhWyoZz0i8I4wxV49-33" target="Z8fRhWyoZz0i8I4wxV49-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

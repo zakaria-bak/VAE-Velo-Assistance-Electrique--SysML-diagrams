@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T15:30:23.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="P93Ixq5WHO5Oj0KXr0Dj" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T15:32:07.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lcyCAgbYf5DVwRWRX2ZG" version="22.1.18" type="github">
   <diagram name="Page-1" id="RBbAHje912E-lCHchGG4">
     <mxGraphModel dx="1444" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -196,6 +196,18 @@
             </Array>
             <mxPoint x="530.02" y="380" as="sourcePoint" />
             <mxPoint x="530" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6UHM5g1i1h8TKfiKLYl-37" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;LED d&#39;éclérage&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="790" y="510" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i6UHM5g1i1h8TKfiKLYl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="854.18" y="440" />
+            </Array>
+            <mxPoint x="854.09" y="510" as="sourcePoint" />
+            <mxPoint x="854.18" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

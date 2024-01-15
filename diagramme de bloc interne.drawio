@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T13:14:27.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.18" etag="g823AiDxaUimyw9ITMQY" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T13:48:19.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9ylkIrvV6r_17EVfOXZF" version="22.1.18" type="github">
   <diagram name="Page-1" id="YrSxWxLyRjSWfUr2A1FE">
-    <mxGraphModel>
+    <mxGraphModel dx="722" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-6" value="&lt;b&gt;: Console de control&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-17" value="&lt;b&gt;: Batterie&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="375" width="160" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-18" value="&lt;b&gt;: Pédale&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="550" width="90" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-19" value="&lt;b&gt;: Moteur&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="380" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-20" value="&lt;b&gt;chaine pignon&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="550" width="80" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-21" value="&lt;b&gt;Roue Libre&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="550" width="110" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-22" value="&lt;b&gt;Roue( Avec l&#39;assistance)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="550" width="110" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-24" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="235" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-25" value="" style="endArrow=classicThin;html=1;rounded=0;endFill=1;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="244.97000000000003" as="sourcePoint" />
+            <mxPoint x="380" y="244.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-26" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-27" value="" style="endArrow=classicThin;html=1;rounded=0;endFill=1;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="149.97000000000003" as="sourcePoint" />
+            <mxPoint x="380" y="149.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hAp_ZLNcaUyqrXGCYLoH-28" target="hAp_ZLNcaUyqrXGCYLoH-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-28" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="235" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hAp_ZLNcaUyqrXGCYLoH-29" value="" style="endArrow=classicThin;html=1;rounded=0;endFill=1;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="244.97000000000003" as="sourcePoint" />
+            <mxPoint x="250" y="244.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

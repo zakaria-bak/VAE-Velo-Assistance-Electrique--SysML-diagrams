@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T23:39:31.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="y8T5Tex3XEwz1Cyybbfy" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T17:57:39.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AazGcT2BcLKgzZw6KW96" version="22.1.18" type="github">
   <diagram id="dAIOxEO-8DKLfruTNQ-A" name="Page-1">
-    <mxGraphModel dx="4434" dy="5192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4094" dy="5101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z8fRhWyoZz0i8I4wxV49-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Vélo à Assistance&amp;nbsp;électrique(VAE)&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2010" y="-4150" width="200" height="100" as="geometry" />
+        <mxCell id="Z8fRhWyoZz0i8I4wxV49-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Vélo à Assistance&amp;nbsp;électrique(VAE)&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1&quot;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;Text = &quot;Le vélo à assistance électrique doit offrir la possibilité de se déplacer efficacement en milieu urbain tout en minimisant la dépense énergétique de l&#39;utilisateur.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-2010" y="-4150" width="290" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="Z8fRhWyoZz0i8I4wxV49-3" target="Z8fRhWyoZz0i8I4wxV49-1" edge="1">
           <mxGeometry relative="1" as="geometry" />

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T19:00:37.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Tjt--IJ7B0jZTeC6pduc" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T19:01:17.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UHHAHX1rWoE0frVhQdFc" version="22.1.18" type="github">
   <diagram id="dAIOxEO-8DKLfruTNQ-A" name="Page-1">
-    <mxGraphModel dx="4744" dy="5445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="3829" dy="4961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,6 +186,20 @@
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-47" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Distance parcourus&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.3.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text = &quot;Affichage de la distance parcourus en km&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="-1330" y="-2890" width="150" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="6VmxAoUBjaaltLx5dbob-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-48" target="ZlxOVn8GUJKfg7nqgYgB-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1140" y="-2890" />
+              <mxPoint x="-1140" y="-2965" />
+              <mxPoint x="-1185" y="-2965" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6VmxAoUBjaaltLx5dbob-13" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6VmxAoUBjaaltLx5dbob-12">
+          <mxGeometry x="0.1295" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-48" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Etat de charge de la batterie&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.3.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text = &quot;&amp;nbsp;indique le niveau actuel d&#39;énergie stockée de la batterie sous forme de barres,&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="-1150" y="-2890" width="180" height="120" as="geometry" />
         </mxCell>
@@ -252,15 +266,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6VmxAoUBjaaltLx5dbob-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.66;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-48" target="ZlxOVn8GUJKfg7nqgYgB-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6VmxAoUBjaaltLx5dbob-9" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6VmxAoUBjaaltLx5dbob-8">
-          <mxGeometry x="-0.0047" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6VmxAoUBjaaltLx5dbob-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.932;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-49" target="ZlxOVn8GUJKfg7nqgYgB-12">
+        <mxCell id="6VmxAoUBjaaltLx5dbob-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.878;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-49" target="ZlxOVn8GUJKfg7nqgYgB-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6VmxAoUBjaaltLx5dbob-11" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6VmxAoUBjaaltLx5dbob-10">

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T19:01:36.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PCHH2Hby2wjrB0cqNCtA" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T19:02:33.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BoKop0IlUezIp3rhLFJN" version="22.1.18" type="github">
   <diagram id="dAIOxEO-8DKLfruTNQ-A" name="Page-1">
-    <mxGraphModel dx="3729" dy="4908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4744" dy="5445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,22 +155,21 @@
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-39" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Batterie&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;est l&#39;élément clé stockant l&#39;énergie électrique nécessaire pour alimenter le moteur, offrant une autonomie lors du pédalage assisté&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="-720" y="-3430" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-40" target="ZlxOVn8GUJKfg7nqgYgB-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-315" y="-3470" />
-              <mxPoint x="-560" y="-3470" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="6VmxAoUBjaaltLx5dbob-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-40" target="ZlxOVn8GUJKfg7nqgYgB-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-40" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Chageur&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&lt;span style=&quot;background-color: initial;&quot;&gt;charger la batterie du vélo&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="-420" y="-3420" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-41" target="ZlxOVn8GUJKfg7nqgYgB-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-620" y="-3160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-41" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Temps de charge&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&amp;nbsp;la durée nécessaire pour restaurer complètement l&#39;énergie de la batterie en la connectant à une source d&#39;alimentation&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="-3180" width="220" height="130" as="geometry" />
+          <mxGeometry x="-700" y="-3160" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-46" target="ZlxOVn8GUJKfg7nqgYgB-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -250,13 +249,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yuCQzj5tK1062xEYcJrd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;dashed=1;" parent="1" source="yuCQzj5tK1062xEYcJrd-3" target="ZlxOVn8GUJKfg7nqgYgB-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-590" y="-2930" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yuCQzj5tK1062xEYcJrd-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Temps de charge&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;3H( 80%) - 6h (100%)&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-630" y="-2930" width="180" height="90" as="geometry" />
+          <mxGeometry x="-670" y="-2930" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yuCQzj5tK1062xEYcJrd-7" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-620" y="-3035" as="geometry" />
+          <mxGeometry x="-620" y="-3035" as="geometry">
+            <mxPoint x="26" y="42" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6VmxAoUBjaaltLx5dbob-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.196;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-47" target="ZlxOVn8GUJKfg7nqgYgB-12">
           <mxGeometry relative="1" as="geometry" />
@@ -267,7 +272,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6VmxAoUBjaaltLx5dbob-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.878;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-49" target="ZlxOVn8GUJKfg7nqgYgB-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-878" y="-2965" />
+              <mxPoint x="-1098" y="-2965" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6VmxAoUBjaaltLx5dbob-11" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6VmxAoUBjaaltLx5dbob-10">
           <mxGeometry x="-0.1728" y="1" relative="1" as="geometry">

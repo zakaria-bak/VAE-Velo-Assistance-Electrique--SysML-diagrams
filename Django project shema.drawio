@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T17:57:39.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AazGcT2BcLKgzZw6KW96" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T18:16:40.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zBfmCBP4HXWJLOJeU4vG" version="22.1.18" type="github">
   <diagram id="dAIOxEO-8DKLfruTNQ-A" name="Page-1">
-    <mxGraphModel dx="4094" dy="5101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4434" dy="5281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,8 @@
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="Z8fRhWyoZz0i8I4wxV49-3" target="Z8fRhWyoZz0i8I4wxV49-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z8fRhWyoZz0i8I4wxV49-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Assiter au pédalage&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2010" y="-3930" width="200" height="90" as="geometry" />
+        <mxCell id="Z8fRhWyoZz0i8I4wxV49-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Assiter au pédalage&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;Le vélo à assistance électrique doit offrir une assistance au pédalage&amp;nbsp;&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-2010" y="-3930" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=circlePlus;endFill=0;" parent="1" source="Z8fRhWyoZz0i8I4wxV49-20" target="Z8fRhWyoZz0i8I4wxV49-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -96,34 +96,41 @@
             <mxPoint x="-1960" y="-3800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Performance&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2750" y="-3600" width="200" height="90" as="geometry" />
+        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Performance&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;Le Vélo à Assistance Électrique (VAE) doit fournir une assistance électrique efficace lors du pédalage&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-2750" y="-3600" width="190" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-23" target="ZlxOVn8GUJKfg7nqgYgB-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Moteur&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&amp;nbsp;Le Moteur du VAE doit fournir une assistance électrique efficace jusqu&#39;à une vitesse maximale de 40 kilomètres par heure. &quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3010" y="-3410" width="270" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Autonomie de la Batterie&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&amp;nbsp;La batterie doit permettre une autonomie minimale de X kilomètres avec une seule charge.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2600" y="-3410" width="250" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.627;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-24" target="ZlxOVn8GUJKfg7nqgYgB-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-2537" y="-3460" />
-              <mxPoint x="-2625" y="-3460" />
-            </Array>
+        <mxCell id="6VmxAoUBjaaltLx5dbob-3" value="&amp;lt;&amp;lt;derive&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZlxOVn8GUJKfg7nqgYgB-32">
+          <mxGeometry x="-0.0943" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.339;exitY=0.01;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=circlePlus;endFill=0;exitPerimeter=0;" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-35" edge="1">
+        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Moteur&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&amp;nbsp;Le Moteur du VAE doit fournir une assistance électrique efficace jusqu&#39;à une vitesse maximale de 40 kilomètres par heure. &quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-3010" y="-3360" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6VmxAoUBjaaltLx5dbob-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-24" target="ZlxOVn8GUJKfg7nqgYgB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6VmxAoUBjaaltLx5dbob-2" value="&amp;lt;&amp;lt;derive&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6VmxAoUBjaaltLx5dbob-1">
+          <mxGeometry x="-0.1415" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Autonomie de la Batterie&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&amp;nbsp;La batterie doit permettre une autonomie minimale de X kilomètres avec une seule charge.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-2580" y="-3360" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.339;exitY=0.01;exitDx=0;exitDy=0;entryX=0.839;entryY=1.029;entryDx=0;entryDy=0;endArrow=circlePlus;endFill=0;exitPerimeter=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1830" y="-3840" as="targetPoint" />
-            <mxPoint x="-760" y="-3605" as="sourcePoint" />
+            <mxPoint x="-1805.42" y="-3820" as="targetPoint" />
+            <mxPoint x="-572.2000000000003" y="-3607.19" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-590" y="-3605" />
-              <mxPoint x="-590" y="-3760" />
-              <mxPoint x="-1830" y="-3760" />
+              <mxPoint x="-570" y="-3607" />
+              <mxPoint x="-570" y="-3763" />
+              <mxPoint x="-1800" y="-3763" />
+              <mxPoint x="-1800" y="-3770" />
+              <mxPoint x="-1805" y="-3770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -223,16 +230,6 @@
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-72" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1297.1333434466014" y="-3105.9333333333334" as="geometry">
             <mxPoint x="-690" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-73" value="&amp;lt;&amp;lt;derive&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-2729.9962994138923" y="-3230" as="geometry">
-            <mxPoint x="173" y="-230" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-74" value="&amp;lt;&amp;lt;derive&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-2979.9962994138923" y="-3230" as="geometry">
-            <mxPoint x="173" y="-230" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-75" value="&amp;lt;&amp;lt;derive&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">

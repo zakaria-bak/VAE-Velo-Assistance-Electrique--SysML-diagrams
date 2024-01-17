@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T19:07:20.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZOm4jQmuEao2FTbXW7Hh" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T05:18:33.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CCCFzyGRCMbR9fms2kNG" version="22.1.18" type="github">
   <diagram name="Page-1" id="RBbAHje912E-lCHchGG4">
-    <mxGraphModel dx="1059" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1764" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8poMKgDdtgzFoosGdu3A-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:7px;text-align:left;&quot;&gt;&lt;b&gt;DDB&lt;/b&gt;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=110;strokeWidth=2;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="1410" height="590" as="geometry" />
+        </mxCell>
         <mxCell id="tNDZy1lkUzPdTNIgQcvL-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Vélo à Assistance électrique&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="480" y="170" width="920" height="60" as="geometry" />
         </mxCell>

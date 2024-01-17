@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T04:37:43.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EneDL0BFHLVaSyai8Mc1" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T04:37:57.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="k4G2gZQAj5QnG0MpCPN_" version="22.1.18" type="github">
   <diagram name="Page-1" id="iBsDPBGNGASx7_R9lyi4">
-    <mxGraphModel dx="611" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nv1oZWBx0USZsBCw3_rq-22" value="" style="shape=ellipse;html=1;fillColor=strokeColor;fontSize=18;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="120" y="415" width="30" height="30" as="geometry" />
+          <mxGeometry x="110" y="405" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nv1oZWBx0USZsBCw3_rq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nv1oZWBx0USZsBCw3_rq-23" target="nv1oZWBx0USZsBCw3_rq-25">
           <mxGeometry relative="1" as="geometry" />
@@ -85,10 +85,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nv1oZWBx0USZsBCw3_rq-23" value="Batterie charger(High)&amp;nbsp;&amp;nbsp;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;arcSize=17;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="130" height="60" as="geometry" />
+          <mxGeometry x="270" y="390" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nv1oZWBx0USZsBCw3_rq-25" value="État de Décharge&amp;nbsp;&lt;br&gt;(In Use)" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;arcSize=17;" vertex="1" parent="1">
-          <mxGeometry x="680" y="400" width="130" height="60" as="geometry" />
+          <mxGeometry x="670" y="390" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nv1oZWBx0USZsBCw3_rq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nv1oZWBx0USZsBCw3_rq-29" target="nv1oZWBx0USZsBCw3_rq-33">
           <mxGeometry relative="1" as="geometry" />
@@ -99,13 +99,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nv1oZWBx0USZsBCw3_rq-29" value="État Faible (Low)" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;arcSize=17;" vertex="1" parent="1">
-          <mxGeometry x="680" y="530" width="130" height="60" as="geometry" />
+          <mxGeometry x="670" y="520" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nv1oZWBx0USZsBCw3_rq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nv1oZWBx0USZsBCw3_rq-25" target="nv1oZWBx0USZsBCw3_rq-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="745" y="520" />
-              <mxPoint x="745" y="520" />
+              <mxPoint x="735" y="510" />
+              <mxPoint x="735" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,7 +118,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nv1oZWBx0USZsBCw3_rq-33" value="État de Charge (Charging)" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;arcSize=17;" vertex="1" parent="1">
-          <mxGeometry x="280" y="530" width="130" height="60" as="geometry" />
+          <mxGeometry x="270" y="520" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

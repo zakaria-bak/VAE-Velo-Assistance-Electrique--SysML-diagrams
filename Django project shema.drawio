@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T03:50:05.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Xa2-CdORN5zxzhaObYEJ" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T03:54:21.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WjSblifishyizeBA5HOp" version="22.1.18" type="github">
   <diagram id="dAIOxEO-8DKLfruTNQ-A" name="Page-1">
-    <mxGraphModel dx="4136" dy="5123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4623" dy="5381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z8fRhWyoZz0i8I4wxV49-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Vélo à Assistance&amp;nbsp;électrique(VAE)&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1&quot;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;Text = &quot;Le vélo à assistance électrique doit offrir la possibilité de se déplacer efficacement en milieu urbain tout en minimisant la dépense énergétique de l&#39;utilisateur.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2010" y="-4150" width="290" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="Z8fRhWyoZz0i8I4wxV49-3" target="Z8fRhWyoZz0i8I4wxV49-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-2045" y="-4160" width="290" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Z8fRhWyoZz0i8I4wxV49-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Assiter au pédalage&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;Le vélo à assistance électrique doit offrir une assistance au pédalage&amp;nbsp;&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="-2010" y="-3930" width="220" height="110" as="geometry" />
@@ -106,6 +103,10 @@
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=circlePlus;endFill=0;" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-22" target="Z8fRhWyoZz0i8I4wxV49-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1960" y="-3800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2655" y="-3710" />
+              <mxPoint x="-1955" y="-3710" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Performance&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;Le Vélo à Assistance Électrique (VAE) doit fournir une assistance électrique efficace lors du pédalage&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -146,17 +147,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Rechargement de la betterie&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Rechargement de la betterie&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-660" y="-3605" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-39" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Batterie&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;est l&#39;élément clé stockant l&#39;énergie électrique nécessaire pour alimenter le moteur, offrant une autonomie lors du pédalage assisté&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-39" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Batterie&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;est l&#39;élément clé stockant l&#39;énergie électrique nécessaire pour alimenter le moteur, offrant une autonomie lors du pédalage assisté&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-670" y="-3430" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6VmxAoUBjaaltLx5dbob-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-40" target="ZlxOVn8GUJKfg7nqgYgB-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-295" y="-3470" />
+              <mxPoint x="-510" y="-3470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-40" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Chageur&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&lt;span style=&quot;background-color: initial;&quot;&gt;charger la batterie du vélo&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="-3410" width="210" height="90" as="geometry" />
+        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-40" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Chageur&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&lt;span style=&quot;background-color: initial;&quot;&gt;charger la batterie du vélo&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="-3400" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-41" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -171,7 +177,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-41" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Temps de charge&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&amp;nbsp;la durée nécessaire pour restaurer complètement l&#39;énergie de la batterie en la connectant à une source d&#39;alimentation&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-41" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Temps de charge&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;&amp;nbsp;la durée nécessaire pour restaurer complètement l&#39;énergie de la batterie en la connectant à une source d&#39;alimentation&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-680" y="-3140" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZlxOVn8GUJKfg7nqgYgB-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-46" target="ZlxOVn8GUJKfg7nqgYgB-12" edge="1">
@@ -241,11 +247,6 @@
             <mxPoint x="173" y="-230" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlxOVn8GUJKfg7nqgYgB-75" value="&amp;lt;&amp;lt;derive&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-2089.9962994138923" y="-3760" as="geometry">
-            <mxPoint x="173" y="-230" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yuCQzj5tK1062xEYcJrd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;dashed=1;" parent="1" source="yuCQzj5tK1062xEYcJrd-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-570" y="-3010" as="targetPoint" />
@@ -259,7 +260,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yuCQzj5tK1062xEYcJrd-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Temps de charge&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;3H( 80%) - 6h (100%)&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="yuCQzj5tK1062xEYcJrd-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Temps de charge&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;id = &quot;1.2.4.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Text = &quot;3H( 80%) - 6h (100%)&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-660" y="-2920" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6VmxAoUBjaaltLx5dbob-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.196;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-47" target="ZlxOVn8GUJKfg7nqgYgB-12">
@@ -284,7 +285,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6VmxAoUBjaaltLx5dbob-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.413;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="ZlxOVn8GUJKfg7nqgYgB-39" target="ZlxOVn8GUJKfg7nqgYgB-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-620" y="-3470" />
+              <mxPoint x="-577" y="-3470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6VmxAoUBjaaltLx5dbob-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Z8fRhWyoZz0i8I4wxV49-3" target="Z8fRhWyoZz0i8I4wxV49-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6VmxAoUBjaaltLx5dbob-20" value="&amp;lt;&amp;lt;derive&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6VmxAoUBjaaltLx5dbob-19">
+          <mxGeometry x="-0.0396" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
